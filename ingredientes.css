@@ -32,7 +32,7 @@ body{
     font-weight: bold;
     line-height: 1.5; 
     z-index: 0;
-    margin-right:110px ;
+    margin-right:140px ;
     background-color: rgba(211, 211, 211, 0.4);
     padding: 2px;
 }
@@ -48,7 +48,7 @@ body{
 
 span{
     position: absolute;
-    right: 20px;
+    right: 30px;
     top: 0px;
     
 }

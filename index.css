@@ -1,0 +1,62 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(255, 193, 202, 0.4);
+}
+
+.titulo{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #6c584c ;
+    width: 266px;
+    height: 60px;
+    padding-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+.texto{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1;
+    color: black;
+}
+
+.links{
+    float: left;
+    position: absolute;
+    margin-top: 1px;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+    margin-right: 50px;
+    float: right;
+    position: relative;
+}
+
+a{
+    color: #4E342E;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    color:crimson;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: orange;
+    background-color: lightgray;
+}

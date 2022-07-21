@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    background: rgba(255, 193, 202, 0.4) url(Imagenes/fondo.png);
+    background: rgba(255, 193, 202, 0.4) url(Imagenes/fondo\pan.webp);
     background-size: 25px auto;
 }
 
@@ -46,7 +46,7 @@ body{
 }
 
 .cafe{
-    background-image: url(Imagenes/fondo\ cafe.jpg);
+    background-image: url(Imagenes/fondo\cafe.webp);
     height: 200px;
     width: auto;
     margin-top: 200px;

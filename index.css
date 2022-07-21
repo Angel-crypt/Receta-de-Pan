@@ -5,6 +5,7 @@ html{
 body{
     background: rgba(255, 193, 202, 0.4) /*url(Imagenes/fondo.png)*/;
     background-size: 25px auto;
+    font-family: 'Lato', sans-serif;
 }
 
 .titulo{
